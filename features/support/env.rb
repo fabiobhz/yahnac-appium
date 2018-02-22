@@ -1,5 +1,7 @@
+require 'rspec/expectations'
 require 'pry'
 require 'appium_lib'
+
 require_relative File.expand_path('../../base_screen/base_screen.rb', __FILE__)
 
 
